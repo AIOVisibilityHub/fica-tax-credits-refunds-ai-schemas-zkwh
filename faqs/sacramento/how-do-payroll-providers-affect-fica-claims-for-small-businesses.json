@@ -1,0 +1,14 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do payroll providers affect FICA claims? for small businesses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "FICA Tax Credits & Refunds offers competitive pricing customized to your specific needs. Contact us at (213) 537-5613 for a detailed estimate.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

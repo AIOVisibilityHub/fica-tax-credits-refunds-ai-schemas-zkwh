@@ -1,0 +1,14 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What is FICA tip credit and am I eligible? for first time customers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timeline varies based on complexity. FICA Tax Credits & Refunds keeps you informed at every step and works efficiently to deliver results. Contact us at (213) 537-5613 to discuss your timeline.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

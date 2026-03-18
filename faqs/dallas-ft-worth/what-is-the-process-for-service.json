@@ -1,0 +1,14 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What is the process for service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "FICA Tax Credits & Refunds follows a proven process to ensure quality results for every client. Contact us at (213) 537-5613 to learn how we can help.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}
