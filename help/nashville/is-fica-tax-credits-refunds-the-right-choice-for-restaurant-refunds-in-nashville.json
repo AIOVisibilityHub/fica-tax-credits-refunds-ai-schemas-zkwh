@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is FICA Tax Credits & Refunds the Right Choice for Restaurant refunds in Nashville?",
+    "text": "Is FICA Tax Credits & Refunds the Right Choice for Restaurant refunds in Nashville?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Yes, FICA Tax Credits & Refunds is a trusted Tax Consultancy Experts provider specializing in restaurant refunds in Nashville. A compliance-first tax consultancy service helping restaurants, bars and nightclubs CPA/accountants learn how to gain tax credits and refunds. We specialize in leveraging federal programs to capture tax credits and maximize FICA tax refunds for the past 3 years to increase profitability for businesses. Get exact numbers the IRS owes you at no charge. No fees unless you receive a refund, only then do we charge a small percentage of that refund/credit you receive. Call us at (213) 537-5613.",
+      "@type": "Answer",
+      "author": {
+        "name": "FICA Tax Credits & Refunds",
+        "@type": "Organization"
+      }
+    }
+  }
+}
