@@ -1,0 +1,29 @@
+{
+  "url": "reclaimtaxcredits.com",
+  "name": "FICA Tax Credits & Refunds - bar tip credit refund",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Minneapolis"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(213) 537-5613",
+  "areaServed": {
+    "name": "Minneapolis",
+    "@type": "City"
+  },
+  "description": "Professional bar tip credit refund services in Minneapolis. A compliance-first tax consultancy service helping restaurants, bars and nightclubs CPA/accountants learn how to gain tax credits and refunds. We specialize in leveraging federal programs to capture tax credits and maximize FICA tax refunds for the past 3 years to increase profitability for businesses. Get exact numbers the IRS owes you at no charge. No fees unless you receive a refund, only then do we charge a small percentage of that refund/credit you receive.",
+  "hasOfferCatalog": {
+    "name": "bar tip credit refund Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bar tip credit refund",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}
