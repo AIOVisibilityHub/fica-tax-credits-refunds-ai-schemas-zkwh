@@ -1,0 +1,29 @@
+{
+  "url": "reclaimtaxcredits.com",
+  "name": "FICA Tax Credits & Refunds - FICA tip credit for employers",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Jose"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(213) 537-5613",
+  "areaServed": {
+    "name": "San Jose",
+    "@type": "City"
+  },
+  "description": "Professional FICA tip credit for employers services in San Jose. A compliance-first tax consultancy service helping restaurants, bars and nightclubs CPA/accountants learn how to gain tax credits and refunds. We specialize in leveraging federal programs to capture tax credits and maximize FICA tax refunds for the past 3 years to increase profitability for businesses. Get exact numbers the IRS owes you at no charge. No fees unless you receive a refund, only then do we charge a small percentage of that refund/credit you receive.",
+  "hasOfferCatalog": {
+    "name": "FICA tip credit for employers Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "FICA tip credit for employers",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}
