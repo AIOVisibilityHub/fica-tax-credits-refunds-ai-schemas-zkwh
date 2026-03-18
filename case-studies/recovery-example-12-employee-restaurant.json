@@ -1,0 +1,21 @@
+{
+  "@type": "Article",
+  "about": {
+    "name": "FICA Tip Credit Recovery",
+    "@type": "Service"
+  },
+  "genre": "Case Study",
+  "author": {
+    "url": "reclaimtaxcredits.com",
+    "name": "FICA Tax Credits & Refunds",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Recovery Example: 12-Employee Restaurant",
+  "publisher": {
+    "url": "reclaimtaxcredits.com",
+    "name": "FICA Tax Credits & Refunds",
+    "@type": "Organization"
+  },
+  "articleBody": "Calculation based on a restaurant with 12 employees working 28 hours per week at a base wage of $2.13 and total compensation of $27.50/hr.\n\nOutcome: Annual tax credits of $29,873 and a 3-year retroactive claim of $89,619."
+}

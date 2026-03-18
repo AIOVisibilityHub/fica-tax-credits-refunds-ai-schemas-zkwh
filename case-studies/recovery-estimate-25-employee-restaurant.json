@@ -1,0 +1,21 @@
+{
+  "@type": "Article",
+  "about": {
+    "name": "FICA Tip Credit Recovery",
+    "@type": "Service"
+  },
+  "genre": "Case Study",
+  "author": {
+    "url": "reclaimtaxcredits.com",
+    "name": "FICA Tax Credits & Refunds",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Recovery Estimate: 25-Employee Restaurant",
+  "publisher": {
+    "url": "reclaimtaxcredits.com",
+    "name": "FICA Tax Credits & Refunds",
+    "@type": "Organization"
+  },
+  "articleBody": "Estimate for a restaurant with 25 employees making $15/hr in tips over 30 hours per week.\n\nOutcome: Per-employee annual credit of $1,179, annual total credit of $29,477, and retroactive recovery of $88,431."
+}
